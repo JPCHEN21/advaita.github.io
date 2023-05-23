@@ -44,14 +44,14 @@ favicon: /img/favicon.png
 
 # Avatar (頭像)
 avatar:
-  img: https://i.loli.net/2021/02/24/5O1day2nriDzjSu.png
+  img: https://avatars.githubusercontent.com/u/96475077?s=96&v=4
   effect: false
 
 # Disable all banner image
 disable_top_img: false
 
 # The banner image of home page
-index_img: https://i.loli.net/2021/02/24/5O1day2nriDzjSu.png
+index_img: http://img.netbian.com/file/2023/0506/230758nrUPF.jpg
 
 # If the banner of page not setting, it will show the top_img
 default_top_img:
@@ -267,10 +267,10 @@ aside:
 
 # busuanzi count for PV / UV in site
 # 訪問人數
-busuanzi:
-  site_uv: true
-  site_pv: true
-  page_pv: true
+# busuanzi:
+#   site_uv: true
+#   site_pv: true
+#   page_pv: true
 
 # Time difference between publish date and now (網頁運行時間)
 # Formal: Month/Day/Year Time or Year/Month/Day Time
